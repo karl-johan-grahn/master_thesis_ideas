@@ -1,2 +1,3 @@
-# master_thesis_ideas
-Master Thesis Ideas
+# Master thesis ideas
+
+* [AHP/ANP approach for optimizing decision making in software development](./ahp.md)
